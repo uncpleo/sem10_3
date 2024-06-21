@@ -7,3 +7,27 @@ button {
     padding: 10px;
     border-radius: 4px;
 }
+.sad{
+    display: flex;
+    justify-content: center;
+}
+
+.crd{
+    height: 50%;
+    width: 600px;
+    margin-top: 10%;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    font-size: medium;
+}
+
+.titulo_T{
+    color: aliceblue;
+    background-color: rgb(81, 81, 81);
+}
+
+.contenido_T{
+    background-color: rgb(224, 236, 255);
+}
