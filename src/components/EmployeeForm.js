@@ -17,6 +17,7 @@ const EmployeeForm = ({ employeeToEdit }) => {
     }
   }, [employeeToEdit]);
 
+
   const handleChange = (e) => {
     const { name, value } = e.target;
     setEmployee({
